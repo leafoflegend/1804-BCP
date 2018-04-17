@@ -131,3 +131,8 @@ func d3987ytf(a, c, y, q) {
 
 // Name functions exactly what they do. Length is not a concern. Function names could be a sentence long if thats how much it took to describe it.
 // If you really need - leave a comment describing what the function does.
+
+function someThing () {
+  console.log('hi');
+  console.log('bye');
+}
