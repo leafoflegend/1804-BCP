@@ -171,7 +171,7 @@ const deepNums = [
     7,
     8,
   ],
-  9
+  9,
 ];
 
 const deepSummer = (deepArr) => {
